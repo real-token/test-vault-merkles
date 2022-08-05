@@ -1,5 +1,5 @@
 {
-  "merkleRoot": "0xd896ba9dfe979d5aafd5ed624ac4fdc9424a48b452d37d1e1041425684349f2e",
+  "merkleRoot": "0x71707d2219cf887147204e1964d0e53a84481b5eb6c5b6f7782029663f64a560",
   "claims": {
     "0xa55395566b0b54395B3246f96A0bDc4b8a483df9": {
       "amounts": [
@@ -13,8 +13,8 @@
         "0x999F4478a96DeFa6d89372e1357e904f98Ff3C9c"
       ],
       "proofs": [
-        "0xf0cb78e954a168be6ff273afc8ab581f28a8b5c11b56f21ef59d67cb3b67030d",
-        "0xf484a5ba079178d821ea79338021fc347c6079b402a7dbf31fd620ef0e06af40"
+        "0x3dc9d5e65aa1980f55f54bd98a8c3c4b707b687c6d756c68481e72195f00dba4",
+        "0xf0cb78e954a168be6ff273afc8ab581f28a8b5c11b56f21ef59d67cb3b67030d"
       ],
       "leaf": "0xa5abfbe1d5c5e68b13f208e4d4e17497e57ab7b64b33ecd308673db05a36a12b"
     },
@@ -30,16 +30,15 @@
         "0x999F4478a96DeFa6d89372e1357e904f98Ff3C9c"
       ],
       "proofs": [
-        "0xa5abfbe1d5c5e68b13f208e4d4e17497e57ab7b64b33ecd308673db05a36a12b",
-        "0xf484a5ba079178d821ea79338021fc347c6079b402a7dbf31fd620ef0e06af40"
+        "0x083c28ba08376738b39e0d78f5f085203e7a39db0de9aba4f1db3b45110d0062"
       ],
       "leaf": "0xf0cb78e954a168be6ff273afc8ab581f28a8b5c11b56f21ef59d67cb3b67030d"
     },
     "0x356b09c32ee2fbB86044B5a68195d66122181a21": {
       "amounts": [
-        "0xc249fdd327780000",
-        "0xa688906bd8b00000",
-        "0xebec21ee1da40000"
+        "0xd02ab486cedc0000",
+        "0xb469471f80140000",
+        "0xf9ccd8a1c5080000"
       ],
       "tokens": [
         "0x301C84037C3f7a908BE841D2C63312001D6042fA",
@@ -47,9 +46,10 @@
         "0x999F4478a96DeFa6d89372e1357e904f98Ff3C9c"
       ],
       "proofs": [
-        "0xd27ffde476a48ce0f4fa6f677d7a8cbf2592db6f7c36ffe43d91229b5c682136"
+        "0xa5abfbe1d5c5e68b13f208e4d4e17497e57ab7b64b33ecd308673db05a36a12b",
+        "0xf0cb78e954a168be6ff273afc8ab581f28a8b5c11b56f21ef59d67cb3b67030d"
       ],
-      "leaf": "0xf484a5ba079178d821ea79338021fc347c6079b402a7dbf31fd620ef0e06af40"
+      "leaf": "0x3dc9d5e65aa1980f55f54bd98a8c3c4b707b687c6d756c68481e72195f00dba4"
     }
   }
 }
