@@ -1,6 +1,6 @@
 [
  {
-    "recipientWalletAddress": "0x01c0360548b5a41a464b52FD347dde62C7e43c23",
+    "recipientWalletAddress": "0x356b09c32ee2fbB86044B5a68195d66122181a21",
     "network": "ETH",
     "products": [
       { 
@@ -15,7 +15,7 @@
     "type": "OLD token burned",
     "hash_burned": "0xb580ebdc757946e7e2a70b4684951c906359b0de7d7306f175e4f6e8e9010b9c"
   },{
-    "recipientWalletAddress": "0x01c0360548b5a41a464b52FD347dde62C7e43c23",
+    "recipientWalletAddress": "0x356b09c32ee2fbB86044B5a68195d66122181a21",
     "network": "ETH",
     "products": [
       { 
@@ -240,7 +240,7 @@
     "type": "OLD token burned",
     "hash_burned": "0xf7dd7a3f0761e8757c70835c4f085e9e9c0da3eed145ea5557ca34e6e594695c"
   },{
-    "recipientWalletAddress": "0x053bd4259274f2cb7afe08991caf86666ba8d88e",
+    "recipientWalletAddress": "0x356b09c32ee2fbB86044B5a68195d66122181a21",
     "network": "ETH",
     "products": [
       { 
