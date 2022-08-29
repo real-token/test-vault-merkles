@@ -245,7 +245,7 @@
     "products": [
       { 
         "owner": "0x39228f2fab61976e5db053fc6d142e8261096e78",
-        "assetTokenAddress": "0x42B387CDf0951A0e08336D35651544c47cD05C95",
+        "assetTokenAddress": "0x301C84037C3f7a908BE841D2C63312001D6042fA",
         "qty": "1.0",
         "mtpTokenId": "100024",
         "tokenDispenseTxHashRecord": "",
